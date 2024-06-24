@@ -1,3 +1,6 @@
+#Download the python file and diabetes.csv file, launch python file and import csv file in jupyter notebook or collab where python file is launched.
+
+
 ### Diabetes Prediction Model using SVM Classifier
 
 #### Overview
